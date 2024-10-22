@@ -28,7 +28,7 @@ def divide(x, y):
    result =  x / y
    print(result)
 
-#Task 2
+#Task 2 
 
 x = int(input('Enter first number: '))
 
